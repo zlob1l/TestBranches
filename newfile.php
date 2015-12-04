@@ -1,4 +1,4 @@
 <?php
-echo "FIRST line";
+echo "FIRSt line";
 echo "second line";
 echo "THIRd line";
